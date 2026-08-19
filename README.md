@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vinaykolli744/LeetCode/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/vinaykolli744/LeetCode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/vinaykolli744/LeetCode/tree/master/1563-stone-game-v) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vinaykolli744/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vinaykolli744/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
